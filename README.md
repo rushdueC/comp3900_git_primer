@@ -1,3 +1,4 @@
+#Hello! COMP9900, This is ZC! 
 # Git Primer
 
 ### Due Week 3 Lab Time
